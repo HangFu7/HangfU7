@@ -25,15 +25,14 @@
 
 ## 🏆 **Competitions & Awards**
 🏅 **National College Student Mathematical Modeling Competition**
-- 🥇 **National First Prize，Beijing**
-  - **独轮车组** - **全国一等奖** 🏆（东北赛区冠军，负责人）
-  - **平衡信标组** - **全国二等奖** 🥈（负责人）
-  - **讯飞创意组** - **全国二等奖** 🥈（ROS 程序框架设计）
+- 🥇 **National First Prize，Beijing First Prize**
+  - For high-dimensional data modeling problems, a CLR-based high-dimensional sample comparison model was established to process and model the problem.
 
-- 🏆 **全国海洋航行器设计与制作大赛**
-  - **特等奖** 🏅（核心成员，水陆两栖机器人运动控制）
-
-🏅 **省级竞赛**
-- 🥇 **全国大学生电子设计竞赛（TI 杯）** - **东北赛区一等奖**
-- 🥈 **全国大学生数学建模竞赛** - **二等奖**
+🏅 **Mathematical Contest in Modeling (MCM)**
+- 🥇 **Finalist Award**
+  - For the problem of predicting user data in the "Wordle" game, a BP neural network model was established using the idea of classification modeling. Interesting features of the dataset were explored from both micro and macro perspectives.
+ 
+🏅 **Huazhong Cup – "Quantitative Investment Problem**
+- 🥇 **First Prize**
+  - For the stock prediction problem, a deep LSTM neural network based on PSO and a dynamic programming model were established to solve the quantitative investment problem.
 ---
